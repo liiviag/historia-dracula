@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/fundo.png");   
+    text-align: center;         
+}
+
+h1, h2{
+    background-color: hsla(0, 0%, 0%, 0.934);
+    color: white;
+    width: auto;            
+    text-align: center; 
+}
+img {
+    margin-bottom: 10px;
+    width: 400px;
+    border-radius: 100px;
+}
+.dragao{
+    display: flex;
+    color: white;
+    font-size: 23px;
+}
+.empalador {
+    text-align: center;
+    margin-left: 400px;
+    color: white;
+}
